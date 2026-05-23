@@ -57,14 +57,6 @@ cd memoire
 cd backend
 npm install
 
-Create .env
-
-MONGO_URI=mongodb+srv://aarushi:Aarushi021@cluster0.podp14f.mongodb.net/memoire?appName=Cluster0
-
-JWT_SECRET=memoire_secret_key
-
-GEMINI_API_KEY=AIzaSyAg-2uxEcTi1bCMUnOz6HTQNeepzjg-QgY
-
 
 Run backend:
 
