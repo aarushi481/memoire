@@ -42,11 +42,11 @@ Backend → Render
 📸 Screenshots
 
 
-![Memory vault](./screenshots/memory.png)
-![AI Chat](./screenshots/chat.png)
-![Knowledge graph](./screenshots/knowledge_graph.png)
-![Analytics](./screenshots/analytics.png)
-![Daily reflection](./screenshots/daily_reflection.png)
+![Memory vault](./backend/screenshots/memory.png)
+![AI Chat](./backend/screenshots/chat.png)
+![Knowledge graph](./backend/screenshots/knowledge_graph.png)
+![Analytics](./backend/screenshots/analytics.png)
+![Daily reflection](./backend/screenshots/daily_reflection.png)
 
 
 ⚙️ Installation
