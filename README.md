@@ -47,6 +47,8 @@ Backend → Render
 ![Knowledge graph](./screenshots/knowledge_graph.png)
 ![Analytics](./screenshots/analytics.png)
 ![Daily reflection](./screenshots/daily_reflection.png)
+
+
 ⚙️ Installation
 1. Clone Repository
 git clone https://github.com/YOUR_USERNAME/memoire.git
@@ -57,10 +59,12 @@ npm install
 
 Create .env
 
-MONGO_URI=your_mongodb_uri
-JWT_SECRET=your_secret
-GEMINI_API_KEY=your_gemini_key
-PORT=5000
+MONGO_URI=mongodb+srv://aarushi:Aarushi021@cluster0.podp14f.mongodb.net/memoire?appName=Cluster0
+
+JWT_SECRET=memoire_secret_key
+
+GEMINI_API_KEY=AIzaSyAg-2uxEcTi1bCMUnOz6HTQNeepzjg-QgY
+
 
 Run backend:
 
@@ -69,21 +73,25 @@ npm start
 cd frontend
 npm install
 
+
 Create .env.local
 
 NEXT_PUBLIC_API_URL=http://localhost:5000
 
+
 Run frontend:
 
 npm run dev
+
 🌍 Live Deployment
 Frontend
 
-Add your Vercel URL here.
+(https://vercel.com/aarushi-s-projects2/memoire..)
 
 Backend
 
-Add your Render URL here.
+(https://memoire-owm1.onrender.com)
+
 
 📚 What I Learned
 Full-stack application architecture
@@ -99,6 +107,8 @@ Image uploads
 Timeline view
 AI memory recommendations
 Smart importance scoring
+
+
 👩‍💻 Author
 
 Aarushi Goyal
